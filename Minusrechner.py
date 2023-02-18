@@ -27,3 +27,5 @@ while True:
         if resultInput == resultCalc:
             count += 1
             resultOk()
+            
+print("I' am so happy")
