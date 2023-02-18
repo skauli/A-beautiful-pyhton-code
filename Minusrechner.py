@@ -27,9 +27,3 @@ while True:
         if resultInput == resultCalc:
             count += 1
             resultOk()
-            
-print("I' am so happy")
-print("are you")
-print("difficult")
-print("Änderung 4")
-print("Änderung 5")
